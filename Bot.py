@@ -81,15 +81,14 @@ class player:
         
 
 
-        # if B[cur_x][(cur_y+1)%N]==0:
-        #     return (0,1)
-
-        # if B[cur_x][(cur_y+N-1)%N]==0:
-        #     return (0,-1)
         
-        # if B[(cur_x+1)%N][cur_y]==0:
-        #     return (1,0)
-
-        # if B[(cur_x+N-1)%N][cur_y]==0:
-        #     return (-1,0)
-
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
