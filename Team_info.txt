@@ -1,0 +1,11 @@
+Fill in the details (should be same as those while registering for CNI Hackathon):
+
+Team Name:Chillbot
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name: Nancy Lakra
+Email ID: nancy20100@iiitnr.edu.in
+
+Team Member 2:
+Name: Pallavi Baghel
+Email ID: pallavi201022@iiitnr.edu.in
